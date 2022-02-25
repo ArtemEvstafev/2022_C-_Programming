@@ -1,0 +1,4 @@
+D:/Repositories/2022_C++_Programming/homework3/Tasks/out/build/x64-Debug/CMakeFiles/Task1.dir
+D:/Repositories/2022_C++_Programming/homework3/Tasks/out/build/x64-Debug/CMakeFiles/Task2.dir
+D:/Repositories/2022_C++_Programming/homework3/Tasks/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+D:/Repositories/2022_C++_Programming/homework3/Tasks/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir

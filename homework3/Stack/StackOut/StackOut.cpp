@@ -7,7 +7,6 @@ using namespace std;
 
 void printStack(stack<int>& s2)
 {
-
     stack<int> s1(s2);
     for (; !s1.empty(); s1.pop())
         std::cout << s1.top() << ' ';
