@@ -4,13 +4,11 @@
 #pragma once
 
 #include <iostream>
-#include <vector>
-#include <set>
-#include <chrono>
-#include <algorithm>
-#include <functional>
 #include <string>
-#include <unordered_set>
-
+#include <algorithm>
+#include <vector>
+#include <cstdlib> // для функций rand() и srand()
+#include <ctime> // для функции time()
+#include <numeric>
 
 // TODO: установите здесь ссылки на дополнительные заголовки, требующиеся для программы.
