@@ -10,5 +10,6 @@
 #include <fstream>
 #include <string>
 #include <vector>
+#include <filesystem>
 
 // TODO: установите здесь ссылки на дополнительные заголовки, требующиеся для программы.
